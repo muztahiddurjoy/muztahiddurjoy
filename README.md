@@ -10,10 +10,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-<img src="https://komarev.com/ghpvc/?username=muztahiddurjoy&style=flat-square&color=blueviolet" alt=""/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=muztahiddurjoy&style=flat-square&color=blueviolet" alt=""/>
+<div align="left">
 <h1>
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,14 +25,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Robotics and IoT.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I try to solve real world problems by developing applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
-
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 
 
