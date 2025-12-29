@@ -89,9 +89,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muztahiddurjoy&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=muztahiddurjoy&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=muztahiddurjoy&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muztahiddurjoy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
